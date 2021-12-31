@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Cesar Faggy??</title>
+        <title>Cesar Faggy?? Period</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
